@@ -1,2 +1,3 @@
 # Stupid_LeetCoder
-[Link for a stupid LeetCoder](https://leetcode.com/gzh47/)
+Practice programming on LeetCode for technical interviews.
+[Link for a very stupid LeetCoder](https://leetcode.com/gzh47/)
