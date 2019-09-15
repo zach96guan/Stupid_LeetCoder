@@ -16,4 +16,4 @@ class Solution:
                 l = m + 1
             else:
                 r = m
-        return nums[l-1]+ k - missing(l-1)
+        return nums[l-1] + k - missing(l-1)
