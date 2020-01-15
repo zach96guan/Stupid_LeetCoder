@@ -25,3 +25,4 @@ class Solution:
         
         return max(cnt) > n >> 1
         
+        
